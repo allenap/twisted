@@ -1,0 +1,1 @@
+Make twisted.logger.Logger.failure directly usable as an errback without needing a lambda or other supporting function.
